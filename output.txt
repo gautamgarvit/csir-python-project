@@ -1,0 +1,341 @@
+Total Dataset Rows (Original): 332
+Training Rows (used for training the model): 265
+Testing Rows (used for testing the model): 67
+
+===== TRAINING DATA (Original Rows) =====
+Row 1	Young	Trained
+Row 2	Young	Trained
+Row 3	Young	Trained
+Row 4	Young	Trained
+Row 5	Young	Trained
+Row 6	Young	Trained
+Row 7	Young	Trained
+Row 8	Young	Trained
+Row 9	Young	Trained
+Row 10	Young	Trained
+Row 11	Young	Trained
+Row 12	Young	Trained
+Row 13	Young	Trained
+Row 14	Young	Trained
+Row 15	Young	Trained
+Row 16	Young	Trained
+Row 17	Young	Trained
+Row 18	Young	Trained
+Row 19	Young	Trained
+Row 20	Young	Trained
+Row 21	Young	Trained
+Row 22	Young	Trained
+Row 23	Young	Trained
+Row 24	Young	Trained
+Row 25	Young	Trained
+Row 26	Young	Trained
+Row 27	Young	Trained
+Row 28	Young	Trained
+Row 29	Young	Trained
+Row 30	Young	Trained
+Row 31	Young	Trained
+Row 32	Young	Trained
+Row 33	Young	Trained
+Row 34	Young	Trained
+Row 35	Young	Trained
+Row 36	Young	Trained
+Row 37	Young	Trained
+Row 38	Young	Trained
+Row 39	Young	Trained
+Row 40	Young	Trained
+Row 41	Adult	Trained
+Row 42	Adult	Trained
+Row 43	Adult	Trained
+Row 44	Adult	Trained
+Row 45	Adult	Trained
+Row 46	Adult	Trained
+Row 47	Young	Trained
+Row 48	Young	Trained
+Row 49	Young	Trained
+Row 50	Young	Trained
+Row 51	Young	Trained
+Row 52	Young	Trained
+Row 53	Senior	Trained
+Row 54	Senior	Trained
+Row 55	Senior	Trained
+Row 56	Senior	Trained
+Row 57	Senior	Trained
+Row 58	Senior	Trained
+Row 59	Young	Trained
+Row 60	Young	Trained
+Row 61	Young	Trained
+Row 62	Young	Trained
+Row 63	Young	Trained
+Row 64	Young	Trained
+Row 65	Adult	Trained
+Row 66	Adult	Trained
+Row 67	Adult	Trained
+Row 68	Adult	Trained
+Row 69	Adult	Trained
+Row 70	Adult	Trained
+Row 71	Adult	Trained
+Row 72	Adult	Trained
+Row 73	Adult	Trained
+Row 74	Adult	Trained
+Row 75	Adult	Trained
+Row 76	Adult	Trained
+Row 77	Adult	Trained
+Row 78	Adult	Trained
+Row 79	Adult	Trained
+Row 80	Adult	Trained
+Row 81	Adult	Trained
+Row 82	Adult	Trained
+Row 83	Adult	Trained
+Row 84	Adult	Trained
+Row 85	Adult	Trained
+Row 86	Adult	Trained
+Row 87	Adult	Trained
+Row 88	Adult	Trained
+Row 89	Adult	Trained
+Row 90	Adult	Trained
+Row 91	Adult	Trained
+Row 92	Adult	Trained
+Row 93	Adult	Trained
+Row 94	Adult	Trained
+Row 95	Adult	Trained
+Row 96	Adult	Trained
+Row 97	Adult	Trained
+Row 98	Adult	Trained
+Row 99	Adult	Trained
+Row 100	Adult	Trained
+Row 101	Adult	Trained
+Row 102	Adult	Trained
+Row 103	Adult	Trained
+Row 104	Adult	Trained
+Row 105	Adult	Trained
+Row 106	Adult	Trained
+Row 107	Adult	Trained
+Row 108	Adult	Trained
+Row 109	Adult	Trained
+Row 110	Adult	Trained
+Row 111	Midage	Trained
+Row 112	Midage	Trained
+Row 113	Midage	Trained
+Row 114	Midage	Trained
+Row 115	Midage	Trained
+Row 116	Midage	Trained
+Row 117	Midage	Trained
+Row 118	Midage	Trained
+Row 119	Midage	Trained
+Row 120	Midage	Trained
+Row 121	Midage	Trained
+Row 122	Midage	Trained
+Row 123	Midage	Trained
+Row 124	Midage	Trained
+Row 125	Midage	Trained
+Row 126	Midage	Trained
+Row 127	Midage	Trained
+Row 128	Midage	Trained
+Row 129	Midage	Trained
+Row 130	Midage	Trained
+Row 131	Midage	Trained
+Row 132	Midage	Trained
+Row 133	Midage	Trained
+Row 134	Midage	Trained
+Row 135	Midage	Trained
+Row 136	Midage	Trained
+Row 137	Midage	Trained
+Row 138	Midage	Trained
+Row 139	Senior	Trained
+Row 140	Senior	Trained
+Row 141	Senior	Trained
+Row 142	Senior	Trained
+Row 143	Senior	Trained
+Row 144	Senior	Trained
+Row 145	Midage	Trained
+Row 146	Midage	Trained
+Row 147	Midage	Trained
+Row 148	Midage	Trained
+Row 149	Midage	Trained
+Row 150	Midage	Trained
+Row 151	Midage	Trained
+Row 152	Midage	Trained
+Row 153	Midage	Trained
+Row 154	Midage	Trained
+Row 155	Midage	Trained
+Row 156	Midage	Trained
+Row 157	Midage	Trained
+Row 158	Midage	Trained
+Row 159	Senior	Trained
+Row 160	Senior	Trained
+Row 161	Senior	Trained
+Row 162	Senior	Trained
+Row 163	Senior	Trained
+Row 164	Senior	Trained
+Row 165	Senior	Trained
+Row 166	Senior	Trained
+Row 167	Senior	Trained
+Row 168	Senior	Trained
+Row 169	Senior	Trained
+Row 170	Senior	Trained
+Row 171	Senior	Trained
+Row 172	Senior	Trained
+Row 173	Senior	Trained
+Row 174	Senior	Trained
+Row 175	Senior	Trained
+Row 176	Senior	Trained
+Row 177	Senior	Trained
+Row 178	Senior	Trained
+Row 179	Senior	Trained
+Row 180	Senior	Trained
+Row 181	Senior	Trained
+Row 182	Senior	Trained
+Row 183	Senior	Trained
+Row 184	Senior	Trained
+Row 185	Senior	Trained
+Row 186	Senior	Trained
+Row 187	Senior	Trained
+Row 188	Senior	Trained
+Row 189	Senior	Trained
+Row 190	Senior	Trained
+Row 191	Senior	Trained
+Row 192	Senior	Trained
+Row 193	Senior	Trained
+Row 194	Senior	Trained
+Row 195	Senior	Trained
+Row 196	Senior	Trained
+Row 197	Senior	Trained
+Row 198	Senior	Trained
+Row 199	Senior	Trained
+Row 200	Senior	Trained
+Row 201	Senior	Trained
+Row 202	Senior	Trained
+Row 203	Senior	Trained
+Row 204	Senior	Trained
+Row 205	Senior	Trained
+Row 206	Senior	Trained
+Row 207	Senior	Trained
+Row 208	Senior	Trained
+Row 209	Senior	Trained
+Row 210	Senior	Trained
+Row 211	Senior	Trained
+Row 212	Senior	Trained
+Row 213	Senior	Trained
+Row 214	Senior	Trained
+Row 215	Senior	Trained
+Row 216	Senior	Trained
+Row 217	Senior	Trained
+Row 218	Senior	Trained
+Row 219	Senior	Trained
+Row 220	Senior	Trained
+Row 221	Senior	Trained
+Row 222	Senior	Trained
+Row 223	Senior	Trained
+Row 224	Senior	Trained
+Row 225	Senior	Trained
+Row 226	Senior	Trained
+Row 227	Senior	Trained
+Row 228	Senior	Trained
+Row 229	Senior	Trained
+Row 230	Senior	Trained
+Row 231	Senior	Trained
+Row 232	Senior	Trained
+Row 233	Senior	Trained
+Row 234	Senior	Trained
+Row 235	Senior	Trained
+Row 236	Senior	Trained
+Row 237	Senior	Trained
+Row 238	Senior	Trained
+Row 239	Senior	Trained
+Row 240	Senior	Trained
+Row 241	Senior	Trained
+Row 242	Senior	Trained
+Row 243	Senior	Trained
+Row 244	Senior	Trained
+Row 245	Senior	Trained
+Row 246	Senior	Trained
+Row 247	Senior	Trained
+Row 248	Senior	Trained
+Row 249	Senior	Trained
+Row 250	Senior	Trained
+Row 251	Senior	Trained
+Row 252	Senior	Trained
+Row 253	Senior	Trained
+Row 254	Senior	Trained
+Row 255	Senior	Trained
+Row 256	Senior	Trained
+Row 257	Senior	Trained
+Row 258	Senior	Trained
+Row 259	Senior	Trained
+Row 260	Senior	Trained
+Row 261	Senior	Trained
+Row 262	Senior	Trained
+Row 263	Senior	Trained
+Row 264	Senior	Trained
+Row 265	Senior	Trained
+
+===== TESTING DATA (Original Rows) =====
+Row 266	Senior	Senior	Correct
+Row 267	Senior	Senior	Correct
+Row 268	Senior	Senior	Correct
+Row 269	Senior	Senior	Correct
+Row 270	Senior	Senior	Correct
+Row 271	Senior	Senior	Correct
+Row 272	Senior	Midage	Incorrect
+Row 273	Senior	Senior	Correct
+Row 274	Senior	Senior	Correct
+Row 275	Senior	Senior	Correct
+Row 276	Senior	Senior	Correct
+Row 277	Senior	Young	Incorrect
+Row 278	Senior	Midage	Incorrect
+Row 279	Senior	Senior	Correct
+Row 280	Senior	Senior	Correct
+Row 281	Senior	Senior	Correct
+Row 282	Senior	Adult	Incorrect
+Row 283	Senior	Senior	Correct
+Row 284	Senior	Adult	Incorrect
+Row 285	Senior	Midage	Incorrect
+Row 286	Senior	Senior	Correct
+Row 287	Midage	Young	Incorrect
+Row 288	Midage	Young	Incorrect
+Row 289	Midage	Adult	Incorrect
+Row 290	Midage	Midage	Correct
+Row 291	Midage	Midage	Correct
+Row 292	Midage	Midage	Correct
+Row 293	Midage	Midage	Correct
+Row 294	Midage	Midage	Correct
+Row 295	Midage	Midage	Correct
+Row 296	Midage	Senior	Incorrect
+Row 297	Midage	Midage	Correct
+Row 298	Midage	Midage	Correct
+Row 299	Midage	Midage	Correct
+Row 300	Midage	Midage	Correct
+Row 301	Midage	Midage	Correct
+Row 302	Midage	Midage	Correct
+Row 303	Midage	Midage	Correct
+Row 304	Midage	Midage	Correct
+Row 305	Midage	Midage	Correct
+Row 306	Midage	Midage	Correct
+Row 307	Midage	Midage	Correct
+Row 308	Midage	Midage	Correct
+Row 309	Midage	Midage	Correct
+Row 310	Midage	Midage	Correct
+Row 311	Midage	Midage	Correct
+Row 312	Midage	Midage	Correct
+Row 313	Midage	Midage	Correct
+Row 314	Midage	Midage	Correct
+Row 315	Midage	Midage	Correct
+Row 316	Midage	Midage	Correct
+Row 317	Midage	Midage	Correct
+Row 318	Midage	Midage	Correct
+Row 319	Midage	Adult	Incorrect
+Row 320	Midage	Midage	Correct
+Row 321	Midage	Young	Incorrect
+Row 322	Midage	Midage	Correct
+Row 323	Midage	Midage	Correct
+Row 324	Midage	Midage	Correct
+Row 325	Midage	Midage	Correct
+Row 326	Midage	Midage	Correct
+Row 327	Midage	Midage	Correct
+Row 328	Midage	Young	Incorrect
+Row 329	Midage	Midage	Correct
+Row 330	Midage	Adult	Incorrect
+Row 331	Midage	Midage	Correct
+Row 332	Midage	Midage	Correct
+
+Accuracy on  Data: 81.33%
